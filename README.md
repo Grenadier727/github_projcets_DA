@@ -1,7 +1,7 @@
-#My codes.readme
+PYTHON USE
 Qui puoi trovare tutto quello che studio, provo e sperimento con Python! 
-Da esercizi basilari, metodi e altro affrontati durante gli studi (ancora in corso) - no AI. ---> {PYTHON USE}
-a progetti più avanzati creati utilizzando immaginazione e AI in tutto il suo potenziale! ---> {AI BASED}
+Esercizi basilari, metodi e altro. Questo materiale è stato creato durante gli studi (ancora in corso) - no AI. ---> {PYTHON USE}
+1. Metodi di ordinamento: 5 tra i metodi più utilizzati per ordinare un array (o python list) con complessità asintotica diversa: dal più semplice al più efficiente.
+ 
 
-1. Prog. Database 1: Development of a Business Intelligence (BI) Dashboard integrated with LLMs (Large Language Models) for predictive and descriptive analysis of corporate datasets via simplified Retrieval-Augmented Generation (RAG)
 
